@@ -58,6 +58,8 @@ Lastly, it can be beneficial to observe and compare data across a specific time 
 
 **Figure 8**
 
-![PyBer_fare_summary](https://user-images.githubusercontent.com/109091887/187680957-4f89315e-b407-4d48-a331-78d08234cbbe.png)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/109091887/187682364-23986f0d-51ac-484f-a28e-826de8d43f9d.png)
 
-##
+## Summary
+The data and it's visualizations have allowed for many observations to be made. Based on these observations I recommend the following:
+1. 
