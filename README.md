@@ -62,4 +62,6 @@ Lastly, it can be beneficial to observe and compare data across a specific time 
 
 ## Summary
 The data and it's visualizations have allowed for many observations to be made. Based on these observations I recommend the following:
-1. 
+1. Create incentives for urban drivers to complete rides in local suburban cities due to suburban cities having a greater average fare per ride.
+2. Due to rural cities having the largest average fare per ride, but those 78 drivers only made 125 rides in four months, create a marketing campaign to show the rural drivers the potential income they could expect if they made more rides.
+3. Instead of only focusing on January through April, it could be beneficial to expand the data being observed to the entire year. That way trends throughout the other months of the year can be found and comparisons can be made from year to year. 
