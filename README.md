@@ -18,7 +18,18 @@ The following DataFrame gives a summary of the three city types: Urban, Suburban
 
 A quick look at the table tells you that urban cities tend to have more rides, drivers, and fares; whereas rural cities have greater averages fares per ride and per driver. This data is powerful but using visual representations give the ability to see a much more detailed breakdown of the data.
 
+Below are three side-by-side boxplots that represent the central tendencies of Ride Count, Ride Fare, and Ride Driver data. These boxplots allow for a more complete picture compared the table and allow the viewer to make clear comparisons between the city types. We now * *see* * what was previously described in that urban cities tend to have more riders, drivers, and fares; but the boxplot includes the minimum, 1st quartile, median, 3rd quartile, maximum, and outliers of each city type, giving the view a more well rounded undertanding of the data.
+
+![Fig2](https://user-images.githubusercontent.com/109091887/187673278-b3f5a16e-92bd-4738-8ca3-5d1d39e3b03d.png)
+![Fig3](https://user-images.githubusercontent.com/109091887/187673291-931619d7-8ac1-4494-8a0e-c49befbd8e52.png)
+![Fig4](https://user-images.githubusercontent.com/109091887/187673304-2d87a72b-efc1-4a16-b7cf-fd06ed6fc593.png)
+
+
+
 ![Fig1](https://user-images.githubusercontent.com/109091887/187671010-437e19b4-e5bd-4b5f-beab-9c05211da5f8.png)
 
 In the figure above, we now can see the tendencies that were described above as well as each specific city and the overall trend that occurs between the different city types and fares and drivers. It is now much more clear that rural cities have high average fares and lower number of rides, compared to urban cities which have lower average fares and higher number of rides. Also, due to the graph including the different sizes of bubbles, rural cities tend to have less drivers (small bubbles) and urban cities tend to have more drivers (larger bubbles). 
+
+
+
 
