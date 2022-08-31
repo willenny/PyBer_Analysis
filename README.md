@@ -5,3 +5,18 @@ After being hired by PyBer, a Python based ride sharing app company, I was asked
 
 ## Purpose
 The purpose of this analysis was to highlight the differences between different city types and how these types affect Total Rides, Total Drivers, Total Fares, Average Fare per Ride, and Average Fare per Driver. By breaking down each ride into the three city types, the tendencies become more clear which allows better decisions to be made. The analysis and visualizations that are presented to V. Isualize will help PyBer improve access to ride-sharing services and determine affordability for underserved neighborhoods.
+
+### Resources
+- Data Source: city_data.csv, ride_data.csv
+- Software: Anaconda Prompt (Python Data), Jupyter Notebooks
+- Dependencies: Pandas, Matplotlib
+
+## Results
+The following DataFrame gives a summary of the three city types: Urban, Suburban, and Rural:
+
+![PyBer_Summary_DataFrame](https://user-images.githubusercontent.com/109091887/187668394-d8cbce74-f37a-470f-ad7b-91da20dbf44f.PNG)
+
+A quick look at the table tells you that urban cities tend to have more rides, drivers, and fares; whereas rural cities have greater averages fares per ride and per driver. This data is powerful but using visual representations give the ability to see a much more detailed breakdown of the data.
+
+![Fig1](https://user-images.githubusercontent.com/109091887/187669130-3947da10-51e2-49f4-8b86-c4dc5088fd91.png)
+
